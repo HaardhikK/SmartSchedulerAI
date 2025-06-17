@@ -1,7 +1,20 @@
-# .gitignore
-
+# Byte-compiled / cache files
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Environment variables
 .env
-*.sqlite3
+
+# macOS / Linux junk
 .DS_Store
+
+# Google credentials and tokens
+credentials.json
+token.json
+
+# Audio files (optional)
+*.wav
