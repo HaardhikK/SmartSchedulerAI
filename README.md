@@ -1,8 +1,3 @@
-Here’s a `README.md` for your **SmartSchedulerAI** project, tailored to what you're building:
-
----
-
-```markdown
 # SmartSchedulerAI 🧠📅
 
 SmartSchedulerAI is an intelligent voice-activated scheduling assistant that understands natural language inputs like “Schedule a meeting next Friday at 3 PM” and automatically creates events on your Google Calendar. It combines Speech Recognition, LLMs (via Groq), natural date parsing, and Google Calendar API to provide a seamless scheduling experience.
@@ -55,7 +50,7 @@ SmartSchedulerAI/
    ```bash
    git clone https://github.com/yourusername/SmartSchedulerAI.git
    cd SmartSchedulerAI
-````
+   ```
 
 2. **Install dependencies**
 
